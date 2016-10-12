@@ -1,0 +1,6 @@
+The world is developing so fast in the recent a few decades. Human beings invented all kinds things that we could not even think of before, most of them even became what is so essential to everyone's life today. But there is always someone who is smart enough to think about and create things that don't exist before. 
+
+I was born in the middle of the biggest human development ever in the history. Seeing all those things created that changed people's lives is what makes me want to become another creator in the world. I always had a dream that one day, I could open my own company and be the smart one to invent new things. When I was searching for universities to attend, I learned that mechanical engineering is what I could to learn in order to make my own creations. It is an course that once you learned, you can do a variety of things you want, so that I could turn any idea into products if I want. Probably, if I have some excellent ideas, I could be another inventor that change people's lives. 
+
+I am full of ideas and I am passionate about creating. If I could enter department of mechanical engineering, I would try my best to learn what I can and turn these ideas into real products, and I would seek for any opportunities so that after graduation, I can have something of real importance to do. 
+

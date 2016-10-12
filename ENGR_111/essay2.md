@@ -1,0 +1,6 @@
+Today, the world was transformed into a digital age. Electricity is powering every aspects of our life, and electronic products can be found everywhere. We cannot live without computers, cell phones, televisions, etc., and all of which are not possible without the expertise of electrical engineering. 
+
+I always wanted to design and invent something in my professional life, and I know nowadays electronic products have the most potential to change people's lives. Because there was already a lot of work done on Electrical Engineering field, making one's own creation has never been easier. But I still have to process the knowledge to do so, and study at Department of Electrical Engineering in Texas A&M University could provide me with opportunities I have never had. If I could enter Department of Electrical Engineering, I can make my dream come true: to play and experiment with all kinds of electronic products and possibly I could use them to create something that have never existed before. 
+
+During my high school time, I taught myself computer programming. I think that Electrical Engineering is closely related to programming, especially the logics. So I believe that if I graduate with a degree for Electrical Engineering, I have all the power to combine softwares and hardwares into something truly useful.
+

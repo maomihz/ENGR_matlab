@@ -1,0 +1,6 @@
+I witnessed the world transforming into a digital age in my life. When I was very small, I was fascinated by computers. I could sit in front of a computer and play with it without ever becoming bored. I was so jealous of programmers who could turn their ideas into code to instruct computers to do something new, so I always wanted to be a programmer in the future. 
+
+I live in China before coming here. Unfortunately, during my middle and high school, there wasn't any computer courses provided. I started to teach myself computer programming in high school, and it was so challenging that when I read my first programming book, I did not understand any concepts at all. When I finally have a grasp of the basis, I had a feeling that I entered a whole new world. 
+
+I am so grateful that now I had the opportunity to come to Texas A&M University in USA to seek for further study. Although I have already learned a lot of programming by myself, in order to become a real programmer or a computer scientist, there is still a lot to learn. Joining Department of Computer Science Engineering is only the beginning, and I am sure that if I graduated from Department of Computer Science Engineering, I could become a programmer that I have dreamed of. 
+
