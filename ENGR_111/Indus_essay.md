@@ -1,0 +1,7 @@
+## Industry Night Essay
+
+University life is a completely different experience for most people, and for me, it has more unique meanings because I'm an international student and the cultures here is very different from what I'm used to before. The industry night speeches by successful entrepreneur really gave me new perspectives about my future career opportunities and let me realize how important and fortunate it is for me to study at Texas A&M University. 
+
+The aggie entrepreneurs spoke a great deal of things about themselves and their university and career experiences. Some of them arose deep thoughts and helped me reflect about myself. For example, you won't use most of knowledge learned in career, but university is only the beginning and is the foundation. Only if the fundamentals are learned can one be more prepared for future and be successful. So although knowledge itself might not seem to be so useful, I still need to work hard because it's a preparation for me.
+
+Another thing I learned is that teamwork's of great significance. In my career there could be countless situations where I have to work with a team. It is essential, when working in a team, to listen and speak. These are the ways you can learn from others and make your own contribution to the team. Teamwork is always difficult for me because I don't have the habit of expressing myself. So during my courses I have to make use of teamwork opportunities to practice my skills and improve myself.
