@@ -5,7 +5,7 @@
 %   Assume 1 pound = 0.454 kilograms
 %
 %   The script will ask for user to input weight in pounds, and output
-%   weight on the Moon, Mars and Saturn. 
+%   weight on the Moon, Mars and Saturn.
 
 % By submitting this assignment, I agree to the following:
 %  “Aggies do not lie, cheat, or steal, or tolerate those who do”
@@ -18,13 +18,11 @@
 % Date:         5 November 2016
 
 % Mass of the celestial bodies in kg
-MASS_OF_EARTH = 5.972e24;
 MASS_OF_MOON = 7.34767309e22;
 MASS_OF_MARS = 6.39e23;
 MASS_OF_SATURN = 5.683e26;
 
 % Radius of the celestial bodies in m
-RADIUS_OF_EARTH = 6.371e6;
 RADIUS_OF_MOON = 1.7374e6;
 RADIUS_OF_MARS = 3.39e6;
 RADIUS_OF_SATURN = 58.232e6;
