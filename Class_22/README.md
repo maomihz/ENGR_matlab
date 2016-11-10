@@ -10,7 +10,7 @@
 
 `cowsay.m` - main program
 
-# Activity 3
+# Bonus activity
 
 `kaprekar_iteration.m`
 
