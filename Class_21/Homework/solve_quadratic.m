@@ -13,8 +13,8 @@ function [x1,x2] = solve_quadratic (a, b, c)
 %   be set to NaN.
 
 % By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
+%  ???Aggies do not lie, cheat, or steal, or tolerate those who do???
+%  ???I have not given or received any unauthorized aid on this assignment???
 %
 % Name: 		XUCHENG GUO
 % Section:      541
@@ -35,7 +35,7 @@ function [x1,x2] = solve_quadratic (a, b, c)
 
                 % Discriminate < 0, there would be complex roots
                 if (discriminant < 0)
-                    fprintf('WARNING: The input function would produce complex roots. \n');
+                    fprintf(2, 'WARNING: The input function would produce complex roots. \n');
                 end
 
                 % find roots using formula
@@ -47,7 +47,7 @@ function [x1,x2] = solve_quadratic (a, b, c)
                 x2 = max(root1, root2);
 
             else % a is equal to zero
-                fprintf('WARNING: Constant a is zero. Will solve it as linear function. \n');
+                fprintf(2, 'WARNING: Constant a is zero. Will solve it as linear function. \n');
                 x1 = -c/b;
                 x2 = NaN;
             end
