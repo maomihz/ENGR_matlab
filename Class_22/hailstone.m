@@ -3,7 +3,7 @@ function [numberPath, maxNumber] = hailstone(number)
 %   HAILSTONE(number) run the hailstone algorithm and calculate the path it need
 %   to take to reach the end.
 %
-%   Input list:    
+%   Input list:
 %       number - the number to run hailstone algorithm
 %
 %   Along the iteration, it also finds the largest possible number
@@ -12,17 +12,6 @@ function [numberPath, maxNumber] = hailstone(number)
 %   Output list:
 %       numberPath - the path needed to reach the end
 %       maxNumber - The maximum number it reached
-
-% By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
-%
-% Name: 		XUCHENG GUO
-% Section:      541
-% Team:         None
-% Assignment:   hailstone activity 1
-% Date:         10 November 2016
-
 
     number = floor(number);
 

@@ -4,17 +4,6 @@ function answer = classify_arachnid ()
 %   When it ask enough questions function will return correct answer.
 %   Inputs are taken by prompting user. The user need to type "y" or "n".
 
-% By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
-%
-% Name: 		XUCHENG GUO
-% Section:      541
-% Team:         None
-% Assignment:   None
-% Date:         8 November 2016
-
-
 if (input('Has a tail or a stinger? (y or n) ==> ', 's') == 'y') % Question 1
     if (input('Tail is straight like a needle? (y or n) ==> ', 's') == 'y') % Question 2
         answer = 'Uropygi (whipscorpions)';

@@ -11,17 +11,6 @@ function [ divisibleCount1, divisibleCount2, divisibleCountBoth ] = fizzbuzz(div
 %       divisibleCount2 - count of numbers divisible by only the second divisor
 %       divisibleCountBoth - count of numbers divisible by both divisor
 
-% By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
-%
-% Name: 		XUCHENG GUO
-% Section:      541
-% Team:         None
-% Assignment:   fizzbuzz CFU
-% Date:         10 November 2016
-
-
     divisibleCount1 = 0;
     divisibleCount2 = 0;
     divisibleCountBoth = 0;

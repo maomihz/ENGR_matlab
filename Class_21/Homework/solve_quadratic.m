@@ -12,16 +12,6 @@ function [x1,x2] = solve_quadratic (a, b, c)
 %   Complex root is possible, and if input is not scalar, both x1 and x2 would
 %   be set to NaN.
 
-% By submitting this assignment, I agree to the following:
-%  ???Aggies do not lie, cheat, or steal, or tolerate those who do???
-%  ???I have not given or received any unauthorized aid on this assignment???
-%
-% Name: 		XUCHENG GUO
-% Section:      541
-% Team:         None
-% Assignment:   Homework-Class21
-% Date:         10 November 2016
-
     % 3 arguments should exist
     if (exist('a', 'var') && exist('b', 'var') && exist('c', 'var'))
 

@@ -6,16 +6,6 @@ function totalFee = parking_fee( parkingHours )
 %   Input is taken by variable parkingHours as an floating point number,
 %   the total parking hours.
 
-% By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
-%
-% Name: 		XUCHENG GUO
-% Section:      541
-% Team:         None
-% Assignment:   None
-% Date:         8 November 2016
-
     ceilParkingHours = ceil(parkingHours); % Round up the number
     fullDays = floor(ceilParkingHours / 24); % Full 24 hour day
 

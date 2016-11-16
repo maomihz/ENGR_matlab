@@ -17,16 +17,6 @@ function [ ] = cowsay(inputText, maxWidth, picture)
 %   This script depends on draw_text_balloon and draw_cow. Printing of pictures
 %   are handled in draw_cow(picture).
 
-% By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
-%
-% Name: 		XUCHENG GUO
-% Section:      541
-% Team:         None
-% Assignment:   Class 22 activity 2 cowsay
-% Date:         10 November 2016
-
     % Default arguments
     if (nargin < 2)
         maxWidth = 40; % maxWidth defaults to 40
