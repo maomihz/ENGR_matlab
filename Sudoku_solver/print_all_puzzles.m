@@ -2,11 +2,11 @@
 %   PRINT_ALL_PUZZLES solves all sudoku puzzles in one file.
 
 % Uncomment to select one puzzle file
-% FILE = 'easy.txt';
-% FILE = 'simple.txt';
-% FILE = 'intermediate.txt';
-% FILE = 'hard.txt';
-FILE = 'custom.txt';
+% FILE = 'puzzles/easy.txt';
+% FILE = 'puzzles/simple.txt';
+% FILE = 'puzzles/intermediate.txt';
+% FILE = 'puzzles/hard.txt';
+FILE = 'puzzles/custom.txt';
 
 
 puzzles = load_sudoku(FILE);
