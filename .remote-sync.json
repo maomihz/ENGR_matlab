@@ -1,0 +1,16 @@
+{
+  "transport": "scp",
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": false,
+  "hostname": "192.168.2.6",
+  "port": "22",
+  "target": "ev3dev/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "robot",
+  "keyfile": "/Users/maomi/.ssh/id_01",
+  "watch": []
+}

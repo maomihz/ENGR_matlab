@@ -1,0 +1,23 @@
+b=155 o=4 [cdfg]
+|1| G16 A16 G16 F16 | G2 G B | A G8 F2 .8 | E F8 G E C8 | C2 C g | a C8 E G.
+|7| F8 D .8 C~8 g .8 | l=8 C C~ C D E D E F | G4 C4 E F G B | A G A E a+ g+ a+ e+
+|11| G G~ G D g+ g+~ g+ d+ | G G~ G C g+ g+~ g+ c+ | E D C g | f e d c
+|14| l=16 e d e d a g a g C~ C C~ C E D E D | G G~ G G~ c+ c+~ d+ c+~ d+ c+ d+ c+ c+~8 d+8
+|16| A G F D c g f d e f g~ g a a# b C~ | C4 .4 C8 D8 E8 G8 | F2. .8 F E | D4 g4. D4 .8
+|20| l=8 C4 f g4 d e f | e. d. c C D E B | A2. . G | F4 E D. E. c+ | B2 . c d e | f. e. d E F G B
+|26| A4 B c+ . G4 F | F4. F16 E16 D E F A | G4 C~ g4 F4 E | E2 D D16 E16 D b | a4 G F4 E4 D
+|31| D C~ g F E. D. g | D4. C2. . | .2 .4 g16 a16 g16 f16 | g2 g4 b4 | a4 g8 f2 .8
+|36| l=4 e f8 g e c8 | c2 c G- | A- c8 e g. | f8 d .8 c~8 G- .8 | l=8 c c~ c d e d e f
+|41| l=8 g4 c4 e f g b | a g a e A G A E | g g~ g d G G~ G D | g g~ g c G G~ G C
+|45| E D C g f e d c | l=16 e d e d a g a g C C~ C C~ E D E D
+|47| G G~ G G~ c+ c+~ d+ c+~ d+ c+ d+ c+ c+~8 d+8 | c+ G F D C f g d e f g~ g a a# b C~
+|49| l=4 C . C8 D8 E8 G8 | F2. F8 G8 | A. G8 F D | E. F8 G C | E =2 E8 B8
+|54| A2. .8 G8 | E .8 E8 F8. G8. B8 | G1 | .2 C8 D8 E8 B8 | A B8 c+ G F8
+|59| =. F16 E16 D8 E8 F8 A8 | G C8~ g F E8 | =2 D8 D16 E16 D8 b8 | a G8 F E D8
+|63| =8 C~8 g8 F8 E8. D8. g8 | D. C2 .8 | C-16 G-16 B-16 c~16 c#16 e16 g16 b16 c8 a~16 b16 a8 g8
+|66| [acdefg] a2 a C | D a8 g2 .8 | f g8 a f d8 | d d~8 f. A- | B- d8 f a.
+|71| [acdefg] g8 e .8 d~8 A- .8 | d8 d~8 d#8 f~8 f#8 f~8 f#8 g8 | a d f8 g8 a8 C8 | b8. a8. b2 .8
+|75| a8. a~8. a2# .8 | a8. g8. d8 a8. g8. d8 | f8 e8 d8 e8 f8 g8 a8 C8
+|78| l=16 b e f e b a b a D D~ D# D~ F E F E | A A~ A# A~ d+ d+~ e+ d+# e+ d+# e+ d+# e+ d+# d+~8 e+8
+|80| A A~ A# A~ d+ d+~ e+ d+ e+ d+# e+ d+# d+~8 e+8 | e+ A G E D a g e f g a~ a# b b~ C D~
+|82| D2 .2

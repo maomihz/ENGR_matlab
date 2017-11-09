@@ -1,0 +1,29 @@
+ b=131 o=4 [cfg] l=8
+ |1| c e | f . . e f . . e | f a e f c . c e | f . . e f . . e
+ |5| f C a b f . c e | f . . e f . . e | f a e f c e A- B- | c4 a4 f4 C4 | b C16 b16 a b f4 .4
+ |10| l=4 f f f f16 a16 b16 C16 | f f f8 e8 e8 f8 | f f f f16 a16 b16 C16 | f f f8 D8 D8 C8
+ |14| f f f f16 a16 b16 C16 | f f f8 e8 e8 f8 | f f f f16 a16 b16 C16 | F. e8 e8 f8 f
+ |18| . .8 f8 f8 e16 e16 =8 f8 | e8 c8 c8 e16 c16 = . | . .8 f8 f8 e8 f8 g8 | a g f8 g16 f16 e
+ |22| . .8 f8 f8 e8 e8 f16 e16 | =8 c8 c8 e16 c16 = .8 e8 | e8 f8 .8 e8 e8 f8 .8 e16 f16 | a b f8 c8 c8 e8
+ |26| e8 f8 .8 C8 b .8 f8 | .8 f8 f8 C8 b . | .8 b8 b8 a#8 b8 a16 f16 =8 e8 | e8 e8 e8 f8 f8 c8 c8 e8
+ |30| e8 f8 .8 C8 b .8 f8 | .8 f8 f8 C8 b . | .8 b8 b8 a#8 b8 a16 f16 f16 c16 e8 | e8 f8 f8 e8 f .8 c16 e16
+ |34| f8 f8 f8 C8 C .8 g16 a16 | b8 a16 b16 =8 C8 f .8 e16 e16 | f C8. C16 b8 a8 f8 e8 | f8. f16 f8 a8 b .
+ |38| f8 f16 f16 =8 e16 e16 f8 C8 .8 a8 | b8 a16 b16 =8 C8 C .8 e8 | f8 a8 .8 e8 f8 C8 .8 C16 b16 | a8 g8 f8 e8 e8 f .8
+ |10| f f f f16 a16 b16 C16 | f f f8 e8 e8 f8 | f f f f16 a16 b16 C16 | f f f8 D8 D8 C8
+ |14| f f f f16 a16 b16 C16 | f f f8 e8 e8 f8 | f f f f16 a16 b16 C16 | F. e8 e8 f8 f
+ |18| . .8 f8 f8 e16 e16 =8 f8 | e8 c8 c8 e16 c16 = . | . .8 f8 f8 e8 f8 g8 | a g f8 g16 f16 e
+ |22| . .8 f8 f8 e8 e8 f16 e16 | =8 c8 c8 e16 c16 = .8 e8 | e8 f8 .8 e8 e8 f8 .8 e16 f16 | a b f8 c8 c8 e8
+ |26| e8 f8 .8 C8 b .8 f8 | .8 f8 f8 C8 b . | .8 b8 b8 a#8 b8 a16 f16 =8 e8 | e8 e8 e8 f8 f8 c8 c8 e8
+ |30| e8 f8 .8 C8 b .8 f8 | .8 f8 f8 C8 b . | .8 b8 b8 a#8 b8 a16 f16 f16 c16 e8 | e8 f8 f8 e8 f .8 c16 e16
+ |34| f8 f8 f8 C8 C .8 g16 a16 | b8 a16 b16 =8 C8 f .8 e16 e16 | f C8. C16 b8 a8 f8 e8 | f8. f16 f8 a8 b .
+ |38| f8 f16 f16 =8 e16 e16 f8 C8 .8 a8 | b8 a16 b16 =8 C8 C .8 e8 | f8 a8 .8 e8 f8 C8 .8 C16 b16 | a8 g8 f8 e8 e8 f .8
+ |42| .8 F8 E8 C8 b8 C8 a8 e8 | f8 e8 f8 .8 f . | f . g . | f16 g16 f8 f16 g16 f8 a . | g8 F8 E8 C8 b8 C8 a8 e8
+ |47| f8 e8 f8 .8 f . | f . e . | f16 g16 f8 f16 g16 f8 a . | g e F16 E16 C16 b16 a16 f16 b16 a16
+ |51| F8 E8 F8 E8 A8 G8 F8 E8 | E8 C8 b8 a8 C8 b8 a16 f16 e16 f16 | e. c16 B-16 c . | l=16 B- c d e f g a b b C D E F G A B l=4
+ |55| c+8 c+. c+ B8 A8 | G8 A B8 G8 E b8 | B. A8 G E | G2 F8 c8 c8 e8
+ |59| e8 f8 .8 C8 b .8 f8 | .8 f8 f8 C8 b . | a. b8 C8 E8 C8 E8 | G F8 E8 C8 c8 c8 e8
+ |63| e8 f8 .8 C8 b .8 f8 | .8 f8 =8 C8 b . | .8 b8 b8 a#8 b8 a16 f16 =16 c16 e8 | =8 f8 f8 e8 f .8 c16 e16
+ |67| f8 f8 f8 C8 C .16 g16 a8 | b8 a16 b16 =8 C8 f .8 e16 e16 | f C8. C16 b8 a8 f8 e8 | f8. f16 =8 a8 b .
+ |71| f8 f16 f16 =8 e16 e16 f8 C8 .8 a8 | b8 a16 b16 =8 C8 C .8 C8 | b8 b8 .8 a8 b8 b8 .8 C16 b16 | a8 g8 f8 e8 e8 f8 .8 e8
+ |75| f8 a8 .8 e8 f8 E8 .8 C16 b16 | b8 b8 C8 E8 E F |
+ || f f f f16 a16 b16 C16 | f f f8 e8 e8 f8 | f f f f16 a16 b16 C16 | f f f8 D8 D8 C8 | f f f f16 a16 b16 C16 | f f f8 e8 e8 f8 | f f f f16 a16 b16 C16 F. e8 e8 f8 f

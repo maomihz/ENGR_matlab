@@ -1,0 +1,8 @@
+b=170 o=4
+|1| E = a = | F. E8 D. | C8 b g G. F8
+|4| E1 | D. E8 F D | E. a8 b C
+|7| A. D8 E F | G1
+|1| E = a = | F. E8 D. C8 | b C D g
+|4| E1 | D. E8 F D | E A a. C8
+|7| D E g. E8 | C2 = b12 C12 D12 | E = a = | F. E8 D. | C8 b g G. F8
+|10| E2 = C | D. E8 F D | E A B c+ | d+ e+ G. e+8 | c+1

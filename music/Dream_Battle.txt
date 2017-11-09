@@ -1,0 +1,21 @@
+b=160 o=4 [~gabde] s=80
+|1| l=8 e . e . e. e16 e e | . d d4 d. d16 d B-4 | . B- . B-. B-16 B- B- | . B- B-4 B-. B-16 B- d
+|5| e . e . e. e16 e e | . f f4 f. f16 f e4 | . e . e. e16 e e | . e e4 e. e16 e e
+|9| e . e . e. e16 e e | . d d4 d. d16 d B-4 | . B- . B-. B-16 B- B- | . B- B-4 B-. B-16 B- d
+|13| e . e . e. e16 e e | . f f4 f. f16 f d!4 . d! . d!. d!16 d! d! | . b b4 b. b16 b b
+|17| l=16 s=100 d! f b d d f b d d f b d d f b d | e f g a B- d! f B- b d! f B- b d! f b
+|19| d! b d a d g d f B- d A- B- G- F- G- | e f d e B- d A- B- F- G- D-! E- G-8 A-8
+|21| l=8 s=90 [acdefg] A-4. d A-2 | f4. c16 d16 e f c d | A-4. d A-2 | f1
+|25| A-4. d A-2 | f4. c16 d16 e f a c | d4. A- d2 | =1
+|29| f4. a f2 | D4. g16 a16 c g e g | f4. a f2 | D1
+|33| f4. a f2 | D4. C16 D16 E F A C | D4. A D2 | =1
+|37| A-4. d A-2 | f4. c16 d16 e f c d | A-4. d A-2 | f1
+|41| A-4. d A-2 | f4. c16 d16 e f a c | d4. A- d2 | =1
+|45| f4. a f2 | D4. g16 a16 c g e g | f4. a f2 | D1
+|49| f4. a f2 | D4. C16 D16 E F A C | D4. A D2 | =1
+|53| [f] l=16 o=3 s=100 G A B g+ B D A B G A F G E F D E | a b g b G F D E b D E F G A B c+
+|55| B G B A F A G E G F D E D a b g | a f g e f d e B- d A- B- e A- B- e f
+|57| b a b E8 b a b C D E8 b a b E | b a b F G b F g E f D e b a g a
+|59| d# e f b D# E F B F d+# E d+ D E F b | D E f D b a g f g f e d f e d# B-
+|61| l=8 s=80 E . E . E. E16 E E | . D D4 D. D16 D b4 | . b . b. b16 b b | . b b4 b. b16 b D
+|65| l=8 E . E . E. E16 E E | . F F4 F. F16 F D#4 | . D# . D#. D#16 D# D# | . B B4 B. B16 B B

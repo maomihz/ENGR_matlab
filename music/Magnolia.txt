@@ -1,0 +1,23 @@
+b=160 o=4
+|1| e B-16 c16 e16 a16 C b | g#. a16 b16 e2 | e B-16 c16 e16 a16 C b
+|4| g#. a16 b16 a2 | a e16 f16 a16 C16 G F | F e16 f16 a16 C16 G F
+|7| E b16 C16 E16 A16 c+ B | e+2 b+2 | b8 C8 D8 G8 . D
+|10| =8 C8 b8 g8 f2 | g2 d+8 c+8 B8 G8 | =8 d8 e8 D8 .8 b8 C8 G8
+|13| B8 c+8 B8 G8 .8 C8 D | =8 b8 C8 G8 A2 | g+6 f+6 e+6 d+6 c+6 B~6
+|16| A1 | = . . A- | e2 b g | c g8 a8 g2 | f2 e a | a g#8 a8 C b
+|22| a C b g | c g8 a8 g4 . | f2 e g# | b. a8 a4 .
+|17| a2 b g | c g8 a8 g2 | f2 e a | a g#8 a8 C b
+|22| a C b g | a g8 a8 g4 . | f2 e g# | b. a8 a4 .
+|34| E2. E | D. C8 = b | b. g#8 =8 D8 C8 b8
+|37| a. g8 = f | e. a~8 = a | C. b8 = g#
+|40| b a8 g8 = f | e f8 e8 =2 | a. b8 = C
+|43| =2. g | C. D8 .4 E | =1
+|46| b8 C8 E8 A8 G F8 D8 | E c+8 B8 G8 D8 C8 b8 | b8 C8 E8 A8 G F8 D8 | E c+8 B8 G8 D8 C8 b8 | b8 C8 E8 A8 G F8 D8
+|49| E c+8 B8 G8 D8 C8 b8 | C .8 D .8 E | E D8 C8 .8 b.
+|52| C2 G D8 g8 | F E a . | a F C E | a b F E | E c+ B2 | A c+ G C
+|58| F. G16 F16 E G# | B A8 G#8 = A | E. C#8 = E
+|61| D. C8 = b | b. g#8 =8 D8 C8 b8 | a. g8 = f
+|64| e. a~8 = a | C. b8 = g | b a8 g8 = f
+|67| e f8 e8 =2 | a. b8 = C | =2. g
+|70| C. D8 . E | =1 | a8 d8 c8 b8 =8 F8 E |
+|73| =8 c+16 E16 G16 b16 C16 g16 a16 d16 g16 e16 c16 e16 a8 | C g8 D8 =8 g8 A | =1

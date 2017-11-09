@@ -1,0 +1,2 @@
+b=120 o=4 [f]
+d8. d16 e d g f2 d8. d16 e d a g2 d8. d16 D b g f e2 C8. C16 b g a g2

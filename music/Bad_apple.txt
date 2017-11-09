@@ -1,0 +1,9 @@
+[~gabcde] b=138 o=4
+|17| l=8 e f g a b4 E D | b4 e4 b a g f | e f g a b4 a g
+|20| f e f g f e d! f | e f g a b4 E D | b4 e4 b a g f | e f g a b4 a g
+|24| f4 g4 a4 b4 | e f g a b4 E D | b4 e4 b a g f | e f g a b4 a g
+|28| f e f g f e d! f | e f g a b4 E D | b4 e4 b a g f | e f g a b4 a g
+|32| f4 g4 a4 b4 | D E b a b4 a b | D E b a b4 a b | a g f d e4 d e
+|36| f g a b e4 b D | D E b a b4 a b | D E b a b4 a b | a g f d e4 d e | f g a b e4 B d+
+|41| d+ e+ B A B4 A B | d+ e+ B A B4 A B | A G F D E4 D E | F G A B E4 B d+ | d+ e+ B A B4 A B
+|46| d+ e+ B A B4 e+ f+ | g+ f+ e+ d+ B4 A B | A G F D E4 E4 |
