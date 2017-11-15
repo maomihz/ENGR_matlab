@@ -1,0 +1,55 @@
+2 * v2
+
+ans =
+
+     4
+     6
+     8
+
+2 .* v2
+
+ans =
+
+     4
+     6
+     8
+
+v3 = [1 0 6]
+
+v3 =
+
+     1     0     6
+
+v4 = [3 1 -1]
+
+v4 =
+
+     3     1    -1
+
+v3 * v4
+{Error using *
+Inner matrix dimensions must agree.
+}
+v3 .* v4
+
+ans =
+
+     3     0    -6
+
+dot(v3, v4)
+
+ans =
+
+    -3
+
+~~~~~~~~~~~~
+The first operation fail because multiplication of two matrices require 1x3 and
+3x1. The second operation multiplies elements in two matrices one by one. 
+~~~~~~~~~~~~
+cross(v3, v4)
+
+ans =
+
+    -6    19     1
+
+diary off
